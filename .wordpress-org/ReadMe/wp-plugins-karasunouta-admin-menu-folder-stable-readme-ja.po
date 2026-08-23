@@ -1,0 +1,252 @@
+# Translation of Plugins - Karasunouta Admin Menu Folder - Stable Readme (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Karasunouta Admin Menu Folder - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-08-23 12:24+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Karasunouta Admin Menu Folder - Stable Readme (latest release)\n"
+
+#. Short description.
+#, gp-priority: high
+msgid "Organize and clean up your WordPress admin sidebar menu items into custom folder structures."
+msgstr "WordPress 管理画面のサイドバーメニュー項目をカスタムフォルダー構造に整理・整頓します。"
+
+#. Plugin name.
+#, gp-priority: high
+msgid "Karasunouta Admin Menu Folder"
+msgstr "Karasunouta Admin Menu Folder"
+
+#. Found in faq paragraph.
+msgid "Why this design? WordPress admin menus natively support only up to 2 levels of hierarchy. Forcibly hacking or overriding core menu scripts to create deep nested dropdowns risks breaking layout compatibility and causing conflicts with other plugins or future WordPress updates. Our clean, core-compliant approach provides a safe, reliable, and practical 3-tier menu experience without stability risks."
+msgstr "なぜこの設計なのですか ? WordPress の管理メニューは、標準では最大2階層までの構造のみをサポートしています。コアのメニュースクリプトを無理にハックしたり上書きして深い階層のドロップダウンを作成すると、レイアウトの互換性が崩れたり、他のプラグインや将来の WordPress アップデートとの競合を引き起こすリスクがあります。当プラグインのクリーンでコア準拠のアプローチは、安定性を損なうことなく、安全で信頼性が高く実用的な3階層のメニュー操作環境を提供します。"
+
+#. Found in faq paragraph.
+msgid "Click on the menu item inside the folder (e.g., Submenu Folder &gt; Target Menu). This opens the parent page and expands its submenu structure in the sidebar, allowing you to access all of its child items."
+msgstr "フォルダー内のメニュー項目をクリックします (例: Submenu Folder &gt; 対象メニュー)。これにより親ページが開き、サイドバー内でそのサブメニュー構造が展開され、すべての子項目にアクセスできるようになります。"
+
+#. Found in faq paragraph.
+msgid "The 'Settings' (options-general.php) root menu is intentionally protected as a core system menu and cannot be moved into a folder. Because 'Settings' serves as the primary hub for essential WordPress configuration screens (General, Reading, Permalinks, etc.) as well as this plugin's own settings page, keeping it always directly accessible in the main sidebar ensures seamless administration and prevents navigation conflicts."
+msgstr "「設定」(options-general.php) ルートメニューは、コアシステムメニューとして意図的に保護されているため、フォルダー内に移動することはできません。「設定」は、WordPress の重要な設定画面 (一般、表示設定、パーマリンクなど) や当プラグイン自体の設定ページの主要なハブとして機能するため、メインサイドバーから常に直接アクセスできるようにしておくことで、スムーズな管理操作を維持し、ナビゲーションの競合を防ぎます。"
+
+#. Found in faq paragraph.
+msgid "No. Karasunouta Admin Menu Folder only changes the location where menu links are rendered in the admin sidebar. User capabilities and plugin page URLs remain unchanged."
+msgstr "いいえ。Karasunouta Admin Menu Folder は、管理画面サイドバーでメニューリンクが表示される位置を変更するだけです。ユーザー権限やプラグインページの URL は一切変更されません。"
+
+#. Found in faq paragraph.
+msgid "The folder disappears from the admin sidebar entirely. Nothing is left behind, and every menu item returns to its original position. Add an item again and the folder comes back."
+msgstr "フォルダーは管理画面サイドバーから完全に非表示になります。不要なデータが残ることはなく、すべてのメニュー項目が元の位置に戻ります。再び項目を追加すると、フォルダーが再表示されます。"
+
+#. Found in faq paragraph.
+msgid "Up to 99 items. Items are listed inside the folder in the same order as they appear in the original admin sidebar, so the folder stays predictable no matter how many plugins you add."
+msgstr "最大99個まで追加できます。フォルダー内の項目は元の管理画面サイドバーと同じ順序で表示されるため、プラグインをいくつ追加してもフォルダー内の並び順が予測しやすくなります。"
+
+#. Found in faq header.
+msgid "How do I access child menu items of a menu item placed inside a folder?"
+msgstr "フォルダー内に配置したメニュー項目の子メニューにはどのようにアクセスしますか ?"
+
+#. Found in faq header.
+msgid "Why can't I move the 'Settings' menu into the folder?"
+msgstr "なぜ「設定」メニューをフォルダーに移動できないのですか ?"
+
+#. Found in faq header.
+msgid "Will moving menu items change their functionality or permissions?"
+msgstr "メニュー項目を移動すると、その機能や権限は変更されますか ?"
+
+#. Found in faq header.
+msgid "What happens if I remove every item from the folder?"
+msgstr "フォルダーからすべての項目を外すとどうなりますか ?"
+
+#. Found in faq header.
+msgid "How many menu items can I put in the folder?"
+msgstr "フォルダーにはいくつのメニュー項目を格納できますか ?"
+
+#. Found in installation list item.
+msgid "Go to 'Settings' &gt; 'Admin Menu Folder' to manage and organize your sidebar menu items."
+msgstr "「設定」&gt;「Admin Menu Folder」に移動して、サイドバーのメニュー項目を管理・整理します。"
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr "WordPress の「プラグイン」メニューからプラグインを有効化します。"
+
+#. Found in installation list item.
+msgid "Upload the <code>karasunouta-admin-menu-folder</code> directory to the <code>/wp-content/plugins/</code> directory, or install the plugin directly through the WordPress plugins screen."
+msgstr "<code>karasunouta-admin-menu-folder</code> ディレクトリを <code>/wp-content/plugins/</code> ディレクトリにアップロードするか、WordPress のプラグイン画面から直接プラグインをインストールします。"
+
+#. Found in description paragraph.
+msgid ""
+"The source code for this plugin is available on GitHub:\n"
+"https://github.com/karasunouta/karasunouta-admin-menu-folder"
+msgstr ""
+"このプラグインのソースコードは GitHub で公開されています:\n"
+"https://github.com/karasunouta/karasunouta-admin-menu-folder"
+
+#. Found in description paragraph.
+msgid "For larger websites or advanced administration workflows, Karasunouta Admin Menu Folder Pro is also available with additional capabilities:"
+msgstr "大規模な Web サイトや高度な管理ワークフロー向けに、追加機能を備えた Karasunouta Admin Menu Folder Pro もご利用いただけます:"
+
+#. Found in description paragraph.
+msgid "As you install more plugins, your admin sidebar easily becomes cluttered with items you rarely touch. Karasunouta Admin Menu Folder lets you tuck away infrequently used menus into a single organized folder. This allows you to build a streamlined sidebar focused exclusively on your daily essential menus, while maintaining immediate access to all other tools whenever you need them."
+msgstr "プラグインを追加していくと、管理画面のサイドバーは滅多に使わない項目ですぐに煩雑になってしまいます。Karasunouta Admin Menu Folder を使えば、使用頻度の低いメニューをすっきりと1つのフォルダーに収納できます。これにより、日常的によく使うメニューだけに絞り込んだ使いやすいサイドバーを構築しながら、必要なときには他のすべてのツールへすぐにアクセスできます。"
+
+#. Found in description paragraph.
+msgid "Karasunouta Admin Menu Folder is a simple and lightweight plugin that aggregates multiple WordPress admin sidebar menu items into a clean, dedicated submenu folder."
+msgstr "Karasunouta Admin Menu Folder は、複数の WordPress 管理画面サイドバーメニュー項目を、すっきりとした専用のサブメニューフォルダーに集約するシンプルで軽量なプラグインです。"
+
+#. Found in description list item.
+msgid "<strong>Flexible Reordering</strong>: Freely customize the display order of folders in the sidebar and rearrange menu items inside each folder."
+msgstr "<strong>柔軟な並べ替え</strong>: サイドバー内のフォルダーの表示順を自由にカスタマイズし、各フォルダー内のメニュー項目を並べ替えることができます。"
+
+#. Found in description list item.
+msgid "<strong>Custom Folder Icons &amp; Titles</strong>: Assign distinct icons and custom names to each folder."
+msgstr "<strong>カスタムフォルダーアイコン &amp; タイトル</strong>: 各フォルダーに個別のアイコンとカスタム名を設定できます。"
+
+#. Found in description list item.
+msgid "<strong>Multiple Folders</strong>: Create and organize multiple dedicated folders (e.g., Tools, Marketing, Settings)."
+msgstr "<strong>複数フォルダーの作成</strong>: 複数の専用フォルダー (例: ツール、マーケティング、設定など) を作成して整理できます。"
+
+#. Found in description list item.
+msgid "<strong>Clean &amp; Lightweight</strong>: Uses standard WordPress core hooks with no external bloat or performance impact."
+msgstr "<strong>クリーン &amp; 軽量</strong>: 標準の WordPress コアフックを使用し、外部スクリプトの肥大化やパフォーマンスへの影響はありません。"
+
+#. Found in description list item.
+msgid "<strong>Submenu Settings Link</strong>: Option to place a settings link at the top or bottom of the submenu folder."
+msgstr "<strong>サブメニュー設定リンク</strong>: 設定画面へのリンクをサブメニューフォルダーの先頭または末尾に配置するオプション。"
+
+#. Found in description list item.
+msgid "<strong>Admin Bar Shortcut</strong>: Option to display a direct link to the settings page in the top admin bar."
+msgstr "<strong>管理バーショートカット</strong>: 上部の管理バーに設定ページへの直接リンクを表示するオプション。"
+
+#. Found in description list item.
+msgid "<strong>Easy Toggle Interface</strong>: Drag-free intuitive checkbox interface for managing menu items in the settings page."
+msgstr "<strong>簡単な切り替えインターフェース</strong>: 設定画面でドラッグ操作を必要とせず、チェックボックスで直感的にメニュー項目を管理できます。"
+
+#. Found in description list item.
+msgid "<strong>Streamlined Sidebar</strong>: Keep your sidebar focused on daily high-frequency menus while preserving immediate access to secondary items inside the folder."
+msgstr "<strong>すっきりとしたサイドバー</strong>: フォルダー内のセカンダリ項目への素早いアクセスを維持しながら、サイドバーを日常的に使用頻度の高いメニューだけに絞り込むことができます。"
+
+#. Found in description header.
+msgid "Source Code &amp; Development"
+msgstr "ソースコード &amp; 開発"
+
+#. Found in description header.
+msgid "Optional Pro Version"
+msgstr "Pro 版のご案内"
+
+#. Found in description header.
+msgid "Key Features"
+msgstr "主な機能"
+
+#. Screenshot description.
+msgid "Preserved submenu functionality — opening a stored plugin (such as LightStart) displays its screen and seamlessly reveals all of its native child items (e.g., \"LightStart &gt; About us\") in the sidebar."
+msgstr "サブメニュー機能の維持 — 格納されたプラグイン (LightStart など) を開くとその画面が表示され、サイドバー内のすべての子項目 (「LightStart &gt; About us」など) がシームレスに展開されます。"
+
+#. Screenshot description.
+msgid "Accessing stored items — expanding the folder to navigate to a stored menu (e.g., selecting \"Menu Folder &gt; LightStart\")."
+msgstr "格納された項目へのアクセス — フォルダーを展開して格納されたメニューに移動します (「Menu Folder &gt; LightStart」を選択するなど)。"
+
+#. Screenshot description.
+msgid "After configuration — selected menus are cleanly aggregated into a single folder."
+msgstr "設定後 — 選択したメニューが1つのフォルダーにすっきりと集約されます。"
+
+#. Screenshot description.
+msgid "Before configuration — admin sidebar cluttered with many third-party plugin menus."
+msgstr "設定前 — 多数のサードパーティ製プラグインメニューで煩雑になった管理画面サイドバー。"
+
+#. Screenshot description.
+msgid "Settings screen — intuitive toggle checkboxes and real-time folder preview."
+msgstr "設定画面 — 直感的な切り替えチェックボックスとリアルタイムのフォルダープレビュー。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Docs: Update tags and verified compatibility with WordPress 7.1."
+msgstr "ドキュメント: タグを更新し、WordPress 7.1 との互換性を検証。"
+
+#. Found in changelog paragraph.
+#, gp-priority: low
+msgid "<h4>1.4.0</h4>"
+msgstr "<h4>1.4.0</h4>"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Initial commit."
+msgstr "最初のコミット。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Introduce @wordpress/scripts asset minification and build pipeline."
+msgstr "@wordpress/scripts によるアセットの最小化およびビルドパイプラインを導入。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Update i18n compatibility and default translation files."
+msgstr "i18n の互換性とデフォルトの翻訳ファイルを更新。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Refine user interface and asset loading scripts."
+msgstr "ユーザーインターフェースとアセット読み込みスクリプトを改善。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Fix: Ensure consistent admin menu item ordering across different environments with or without custom_menu_order filters."
+msgstr "修正: custom_menu_order フィルターの有無に関わらず、異なる環境間で管理メニュー項目の順序が一貫するように修正。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Refactor: Align codebase and internal naming with WordPress.org coding standards."
+msgstr "リファクタリング: コードベースおよび内部の命名規則を WordPress.org のコーディング標準に準拠。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Enhance: Improve folder slug and title synchronization with registered admin menu nodes."
+msgstr "強化: 登録済み管理メニューノードとのフォルダーのスラッグおよびタイトルの同期を改善。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Enhance: Introduce wp.hooks extension architecture for modular frontend integration."
+msgstr "強化: モジュール式フロントエンド統合のための wp.hooks 拡張アーキテクチャを導入。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Refactor: Rename plugin to Karasunouta Admin Menu Folder with official slug and prefix kamf per WordPress.org guidelines."
+msgstr "リファクタリング: WordPress.org のガイドラインに従い、プラグイン名を Karasunouta Admin Menu Folder に変更し、公式スラッグと接頭辞 kamf を設定。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Refactor: Simplify the stored option structure and expose the folder title, icon, node list and protected slugs through documented filters."
+msgstr "リファクタリング: 保存されるオプション構造を簡素化し、フォルダーのタイトル、アイコン、ノード一覧、保護されたスラッグをドキュメント化されたフィルター経由で公開。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Enhance: Load admin assets only on the plugin settings screen."
+msgstr "強化: 管理画面用アセットをプラグインの設定画面でのみ読み込むように最適化。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Enhance: Prevent the Settings root menu from being selected, since it was never movable into the folder."
+msgstr "強化: 「設定」ルートメニューはフォルダーに移動できないため、選択できないように制限。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Enhance: Submit settings as structured form fields instead of a JSON blob, fixing a case where menu titles containing \"&lt;\" could truncate the saved data."
+msgstr "強化: 設定の送信を JSON 文字列ではなく構造化されたフォームフィールドとして行うようにし、「&lt;」を含むメニュータイトルで保存データが切り捨てられる問題を修正。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Enhance: Escape every generated value at the point it is printed, and remove all static analysis suppressions so the whole codebase is checked."
+msgstr "強化: 出力箇所ですべての生成値をエスケープ処理し、静的解析の除外設定をすべて削除してコードベース全体をチェックするように改善。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Enhance: Automatically sort menu items in the folder by their original WordPress menu positions, and add the <code>kamf_folder_items</code> filter hook for custom ordering."
+msgstr "強化: フォルダー内のメニュー項目を元の WordPress メニュー位置に従って自動的に並べ替えるようにし、独自の並べ替え用の <code>kamf_folder_items</code> フィルターフックを追加。"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Fix: Ensure settings saved notification renders cleanly in-place without visual layout shifts."
+msgstr "修正: 設定保存通知がレイアウトのズレを起こさず、その場で綺麗に表示されるように修正。"
