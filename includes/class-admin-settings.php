@@ -347,6 +347,13 @@ class Settings_Page {
 						<div class="kamf-form-actions">
 							<input type="submit" name="kamf_save_settings" class="button button-primary button-large" value="<?php esc_attr_e( 'Save Changes', 'karasunouta-admin-menu-folder' ); ?>">
 						</div>
+
+						<?php
+						/**
+						 * 設定フォームアクション領域（変更を保存ボタン）の直後に出力
+						 */
+						do_action( 'kamf_after_settings_form_actions' );
+						?>
 					</div>
 				</div>
 			</form>
