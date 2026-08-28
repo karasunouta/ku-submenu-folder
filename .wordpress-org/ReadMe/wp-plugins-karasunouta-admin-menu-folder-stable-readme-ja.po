@@ -250,3 +250,13 @@ msgstr "強化: フォルダー内のメニュー項目を元の WordPress メ�
 #, gp-priority: low
 msgid "Fix: Ensure settings saved notification renders cleanly in-place without visual layout shifts."
 msgstr "修正: 設定保存通知がレイアウトのズレを起こさず、その場で綺麗に表示されるように修正。"
+
+#. Found in changelog paragraph.
+#, gp-priority: low
+msgid "<h4>1.5.1.2</h4>"
+msgstr "<h4>1.5.1.2</h4>"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Enhance: Add <code>kamf_after_settings_form_actions</code> action hook for custom extensions after settings form actions."
+msgstr "強化: 設定フォームアクション領域の直後にカスタム拡張を行うための <code>kamf_after_settings_form_actions</code> アクションフックを追加。"

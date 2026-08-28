@@ -4,7 +4,7 @@ Donate link: https://karasunouta.com
 Tags: admin menu, admin menu folder, submenu folder, menu organizer, menu editor
 Requires at least: 6.4
 Tested up to: 7.1
-Stable tag: 1.5.1.1
+Stable tag: 1.5.1.2
 Requires PHP: 8.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -67,6 +67,9 @@ For larger websites or advanced administration workflows, Karasunouta Admin Menu
 5. Preserved submenu functionality — opening a stored plugin (such as LightStart) displays its screen and seamlessly reveals all of its native child items (e.g., "LightStart > About us") in the sidebar.
 
 == Changelog ==
+
+= 1.5.1.2 =
+* Enhance: Add `kamf_after_settings_form_actions` action hook for custom extensions after settings form actions.
 
 = 1.5.1.1 =
 * Docs: Update tags and verified compatibility with WordPress 7.1.
