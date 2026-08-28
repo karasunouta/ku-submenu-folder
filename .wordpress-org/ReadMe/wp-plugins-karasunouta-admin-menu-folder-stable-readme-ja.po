@@ -253,10 +253,11 @@ msgstr "修正: 設定保存通知がレイアウトのズレを起こさず、�
 
 #. Found in changelog paragraph.
 #, gp-priority: low
-msgid "<h4>1.5.1.2</h4>"
-msgstr "<h4>1.5.1.2</h4>"
+msgid "<h4>1.5.2</h4>"
+msgstr "<h4>1.5.2</h4>"
 
 #. Found in changelog list item.
 #, gp-priority: low
 msgid "Enhance: Add <code>kamf_after_settings_form_actions</code> action hook for custom extensions after settings form actions."
-msgstr "強化: 設定フォームアクション領域の直後にカスタム拡張を行うための <code>kamf_after_settings_form_actions</code> アクションフックを追加。"
+msgstr "強化: 設定フォームアクション領域の直後にカスタム拡張を行うための <code>kamf_after_settings_form_actions</code> アクションフックを追加。"
+
