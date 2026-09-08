@@ -23,11 +23,11 @@ msgstr "Karasunouta Admin Menu Folder"
 
 #. Found in faq paragraph.
 msgid ""
-"Yes! While the free version gives you a complete, standalone solution for cleaning up your sidebar into a single folder, **Karasunouta Admin Menu Folder Pro** adds multi-folder support, custom icons and titles, and drag-and-drop reordering.\n"
-"👉 [View Pro details and pricing](https://karasunouta.com/en/store/karasunouta-admin-menu-folder-pro/)"
+"Yes! While the free version gives you a complete, standalone solution for cleaning up your sidebar into a single folder, <strong>Karasunouta Admin Menu Folder Pro</strong> adds multi-folder support, custom icons and titles, and drag-and-drop reordering.\n"
+"👉 <a href=\"https://karasunouta.com/en/store/karasunouta-admin-menu-folder-pro/\">View Pro details and pricing</a>"
 msgstr ""
-"はい。無料の通常版でも 1 つの整理フォルダーを使ってサイドバーを整頓する完全なスタンドアロンソリューションを提供していますが、**Karasunouta Admin Menu Folder Pro** では複数フォルダーの作成、カスタムアイコンや名称の設定、ドラッグ &amp; ドロップによる並べ替え機能が追加されます。\n"
-"👉 [Pro 版の詳細・価格を見る](https://karasunouta.com/store/karasunouta-admin-menu-folder-pro/)"
+"はい。無料の通常版でも 1 つの整理フォルダーを使ってサイドバーを整頓する完全なスタンドアロンソリューションを提供していますが、<strong>Karasunouta Admin Menu Folder Pro</strong> では複数フォルダーの作成、カスタムアイコンや名称の設定、ドラッグ &amp; ドロップによる並べ替え機能が追加されます。\n"
+"👉 <a href=\"https://karasunouta.com/store/karasunouta-admin-menu-folder-pro/\">Pro 版の詳細・価格を見る</a>"
 
 #. Found in faq paragraph.
 msgid "Why this design? WordPress admin menus natively support only up to 2 levels of hierarchy. Forcibly hacking or overriding core menu scripts to create deep nested dropdowns risks breaking layout compatibility and causing conflicts with other plugins or future WordPress updates. Our clean, core-compliant approach provides a safe, reliable, and practical 3-tier menu experience without stability risks."
@@ -102,16 +102,16 @@ msgid "The free version of Karasunouta Admin Menu Folder is a complete, fully fu
 msgstr "通常版の Karasunouta Admin Menu Folder は、1 つの整理されたフォルダーによって WordPress 管理画面のサイドバーをすっきりと保つ、完全に機能するスタンドアロンプラグインです。"
 
 #. Found in description paragraph.
-msgid "For agency client work, larger websites, or advanced administration workflows, **Karasunouta Admin Menu Folder Pro** offers extended capabilities to give you total control over the admin navigation."
-msgstr "受託制作などのクライアントワーク、大規模な Web サイト、あるいは高度な管理ワークフロー向けに、**Karasunouta Admin Menu Folder Pro** は管理ナビゲーションを思い通りに制御できる拡張機能を提供します。"
+msgid "For agency client work, larger websites, or advanced administration workflows, <strong>Karasunouta Admin Menu Folder Pro</strong> offers extended capabilities to give you total control over the admin navigation."
+msgstr "受託制作などのクライアントワーク、大規模な Web サイト、あるいは高度な管理ワークフロー向けに、<strong>Karasunouta Admin Menu Folder Pro</strong> は管理ナビゲーションを思い通りに制御できる拡張機能を提供します。"
 
 #. Found in description paragraph.
-msgid "When delivering WordPress sites to clients, third-party plugin menus can easily clutter the dashboard. This overwhelming clutter often confuses clients and increases support inquiries. With the Pro version, you can organize menus into dedicated, purpose-specific folders (e.g., \"Maintenance\", \"Security\", \"Analytics & SEO\") with custom folder names and Dashicons. Deliver a clean, professional, and clutter-free admin dashboard that inspires confidence."
+msgid "When delivering WordPress sites to clients, third-party plugin menus can easily clutter the dashboard. This overwhelming clutter often confuses clients and increases support inquiries. With the Pro version, you can organize menus into dedicated, purpose-specific folders (e.g., \"Maintenance\", \"Security\", \"Analytics &amp; SEO\") with custom folder names and Dashicons. Deliver a clean, professional, and clutter-free admin dashboard that inspires confidence."
 msgstr "Web サイトをクライアントに納品する際、導入プラグインが増えるにつれて管理画面は雑然としがちです。メニューがとっ散らかっていると、クライアントが操作に迷ったり、サポートへの問い合わせが増える要因になります。Pro 版を活用すれば、目的別 (例: 「保守・メンテ」「セキュリティ」「分析・SEO」など) に専用フォルダーを作成し、任意のフォルダー名やアイコンを設定して整理できます。とっ散らかっていない、洗練されたプロフェッショナルな管理画面を納品できます。"
 
 #. Found in description paragraph.
-msgid "👉 [View Pro details and pricing](https://karasunouta.com/en/store/karasunouta-admin-menu-folder-pro/)"
-msgstr "👉 [Pro 版の詳細・価格を見る](https://karasunouta.com/store/karasunouta-admin-menu-folder-pro/)"
+msgid "👉 <a href=\"https://karasunouta.com/en/store/karasunouta-admin-menu-folder-pro/\">View Pro details and pricing</a>"
+msgstr "👉 <a href=\"https://karasunouta.com/store/karasunouta-admin-menu-folder-pro/\">Pro 版の詳細・価格を見る</a>"
 
 #. Found in description list item.
 msgid "<strong>Number of Folders</strong>: [Free] 1 folder (automatically generated). / [Pro] Create and manage multiple folders."
