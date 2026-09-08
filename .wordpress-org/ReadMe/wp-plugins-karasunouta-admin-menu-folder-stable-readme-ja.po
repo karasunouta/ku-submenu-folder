@@ -22,6 +22,14 @@ msgid "Karasunouta Admin Menu Folder"
 msgstr "Karasunouta Admin Menu Folder"
 
 #. Found in faq paragraph.
+msgid ""
+"Yes! While the free version gives you a complete, standalone solution for cleaning up your sidebar into a single folder, **Karasunouta Admin Menu Folder Pro** adds multi-folder support, custom icons and titles, and drag-and-drop reordering.\n"
+"👉 [View Pro details and pricing](https://karasunouta.com/en/store/karasunouta-admin-menu-folder-pro/)"
+msgstr ""
+"はい。無料の通常版でも 1 つの整理フォルダーを使ってサイドバーを整頓する完全なスタンドアロンソリューションを提供していますが、**Karasunouta Admin Menu Folder Pro** では複数フォルダーの作成、カスタムアイコンや名称の設定、ドラッグ &amp; ドロップによる並べ替え機能が追加されます。\n"
+"👉 [Pro 版の詳細・価格を見る](https://karasunouta.com/store/karasunouta-admin-menu-folder-pro/)"
+
+#. Found in faq paragraph.
 msgid "Why this design? WordPress admin menus natively support only up to 2 levels of hierarchy. Forcibly hacking or overriding core menu scripts to create deep nested dropdowns risks breaking layout compatibility and causing conflicts with other plugins or future WordPress updates. Our clean, core-compliant approach provides a safe, reliable, and practical 3-tier menu experience without stability risks."
 msgstr "なぜこの設計なのですか ? WordPress の管理メニューは、標準では最大2階層までの構造のみをサポートしています。コアのメニュースクリプトを無理にハックしたり上書きして深い階層のドロップダウンを作成すると、レイアウトの互換性が崩れたり、他のプラグインや将来の WordPress アップデートとの競合を引き起こすリスクがあります。当プラグインのクリーンでコア準拠のアプローチは、安定性を損なうことなく、安全で信頼性が高く実用的な3階層のメニュー操作環境を提供します。"
 
@@ -44,6 +52,10 @@ msgstr "フォルダーは管理画面サイドバーから完全に非表示に
 #. Found in faq paragraph.
 msgid "Up to 99 items. Items are listed inside the folder in the same order as they appear in the original admin sidebar, so the folder stays predictable no matter how many plugins you add."
 msgstr "最大99個まで追加できます。フォルダー内の項目は元の管理画面サイドバーと同じ順序で表示されるため、プラグインをいくつ追加してもフォルダー内の並び順が予測しやすくなります。"
+
+#. Found in faq header.
+msgid "Is there a Pro version available?"
+msgstr "Pro 版はありますか ?"
 
 #. Found in faq header.
 msgid "How do I access child menu items of a menu item placed inside a folder?"
@@ -86,28 +98,40 @@ msgstr ""
 "https://github.com/karasunouta/karasunouta-admin-menu-folder"
 
 #. Found in description paragraph.
-msgid "For larger websites or advanced administration workflows, Karasunouta Admin Menu Folder Pro is also available with additional capabilities:"
-msgstr "大規模な Web サイトや高度な管理ワークフロー向けに、追加機能を備えた Karasunouta Admin Menu Folder Pro もご利用いただけます:"
+msgid "The free version of Karasunouta Admin Menu Folder is a complete, fully functional plugin designed to keep your WordPress admin sidebar clean and focused using a single organized folder."
+msgstr "通常版の Karasunouta Admin Menu Folder は、1 つの整理されたフォルダーによって WordPress 管理画面のサイドバーをすっきりと保つ、完全に機能するスタンドアロンプラグインです。"
 
 #. Found in description paragraph.
-msgid "As you install more plugins, your admin sidebar easily becomes cluttered with items you rarely touch. Karasunouta Admin Menu Folder lets you tuck away infrequently used menus into a single organized folder. This allows you to build a streamlined sidebar focused exclusively on your daily essential menus, while maintaining immediate access to all other tools whenever you need them."
-msgstr "プラグインを追加していくと、管理画面のサイドバーは滅多に使わない項目ですぐに煩雑になってしまいます。Karasunouta Admin Menu Folder を使えば、使用頻度の低いメニューをすっきりと1つのフォルダーに収納できます。これにより、日常的によく使うメニューだけに絞り込んだ使いやすいサイドバーを構築しながら、必要なときには他のすべてのツールへすぐにアクセスできます。"
+msgid "For agency client work, larger websites, or advanced administration workflows, **Karasunouta Admin Menu Folder Pro** offers extended capabilities to give you total control over the admin navigation."
+msgstr "受託制作などのクライアントワーク、大規模な Web サイト、あるいは高度な管理ワークフロー向けに、**Karasunouta Admin Menu Folder Pro** は管理ナビゲーションを思い通りに制御できる拡張機能を提供します。"
 
 #. Found in description paragraph.
-msgid "Karasunouta Admin Menu Folder is a simple and lightweight plugin that aggregates multiple WordPress admin sidebar menu items into a clean, dedicated submenu folder."
-msgstr "Karasunouta Admin Menu Folder は、複数の WordPress 管理画面サイドバーメニュー項目を、すっきりとした専用のサブメニューフォルダーに集約するシンプルで軽量なプラグインです。"
+msgid "When delivering WordPress sites to clients, third-party plugin menus can easily clutter the dashboard. This overwhelming clutter often confuses clients and increases support inquiries. With the Pro version, you can organize menus into dedicated, purpose-specific folders (e.g., \"Daily Operations\", \"Maintenance\", \"Security\") with custom folder names and Dashicons. Deliver a clean, professional, and clutter-free admin dashboard that inspires confidence."
+msgstr "Web サイトをクライアントに納品する際、導入プラグインが増えるにつれて管理画面は雑然としがちです。メニューがとっ散らかっていると、クライアントが操作に迷ったり、サポートへの問い合わせが増える要因になります。Pro 版を活用すれば、目的別 (例: 「日常業務」「保守・メンテ」「セキュリティ」など) に専用フォルダーを作成し、任意のフォルダー名やアイコンを設定して整理できます。とっ散らかっていない、洗練されたプロフェッショナルな管理画面を納品できます。"
+
+#. Found in description paragraph.
+msgid "👉 [View Pro details and pricing](https://karasunouta.com/en/store/karasunouta-admin-menu-folder-pro/)"
+msgstr "👉 [Pro 版の詳細・価格を見る](https://karasunouta.com/store/karasunouta-admin-menu-folder-pro/)"
 
 #. Found in description list item.
-msgid "<strong>Flexible Reordering</strong>: Freely customize the display order of folders in the sidebar and rearrange menu items inside each folder."
-msgstr "<strong>柔軟な並べ替え</strong>: サイドバー内のフォルダーの表示順を自由にカスタマイズし、各フォルダー内のメニュー項目を並べ替えることができます。"
+msgid "<strong>Number of Folders</strong>: [Free] 1 folder (automatically generated). / [Pro] Create and manage multiple folders."
+msgstr "<strong>メニューフォルダー数</strong>: [通常版] 1つのみ自動生成されます。 / [Pro 版] 複数のメニューフォルダーを生成、管理できます。"
 
 #. Found in description list item.
-msgid "<strong>Custom Folder Icons &amp; Titles</strong>: Assign distinct icons and custom names to each folder."
-msgstr "<strong>カスタムフォルダーアイコン &amp; タイトル</strong>: 各フォルダーに個別のアイコンとカスタム名を設定できます。"
+msgid "<strong>Folder Name</strong>: [Free] Fixed to \"Menu Folder\". / [Pro] Fully customizable (e.g., \"Maintenance\", \"Security\")."
+msgstr "<strong>メニューフォルダー名</strong>: [通常版] 「Menu Folder」に固定。 / [Pro 版] 任意に変更可能。これにより複数メニューフォルダーを目的に応じて使い分けられます (例: 「メンテ用」「セキュリティ関係」)。"
 
 #. Found in description list item.
-msgid "<strong>Multiple Folders</strong>: Create and organize multiple dedicated folders (e.g., Tools, Marketing, Settings)."
-msgstr "<strong>複数フォルダーの作成</strong>: 複数の専用フォルダー (例: ツール、マーケティング、設定など) を作成して整理できます。"
+msgid "<strong>Folder Icon</strong>: [Free] Fixed standard folder icon. / [Pro] Fully customizable (choose suitable Dashicons for each folder)."
+msgstr "<strong>メニューフォルダーアイコン</strong>: [通常版] 一般的なフォルダーアイコンに固定。 / [Pro 版] 任意に変更可能。メニューフォルダー名に応じたアイコンを選択できます。"
+
+#. Found in description list item.
+msgid "<strong>Menu Item Order</strong>: [Free] Fixed (follows original WordPress sidebar order). / [Pro] Freely draggable &amp; reorderable."
+msgstr "<strong>メニューの並び順</strong>: [通常版] 固定。WordPress サイドバーの並び順に準じます。 / [Pro 版] 自由に並べ替え可能。"
+
+#. Found in description list item.
+msgid "<strong>Folder Order</strong>: [Free] Fixed (single folder). / [Pro] Freely reorderable among multiple folders."
+msgstr "<strong>メニューフォルダーの並び順</strong>: [通常版] 固定 (メニューフォルダー自体が 1 つしかないため)。 / [Pro 版] 複数のメニューフォルダーを設置した場合、自由に並べ替え可能。"
 
 #. Found in description list item.
 msgid "<strong>Clean &amp; Lightweight</strong>: Uses standard WordPress core hooks with no external bloat or performance impact."
@@ -136,6 +160,14 @@ msgstr "ソースコード &amp; 開発"
 #. Found in description header.
 msgid "Optional Pro Version"
 msgstr "Pro 版のご案内"
+
+#. Found in description header.
+msgid "Perfect for Client Work &amp; Handoffs"
+msgstr "クライアントワークや納品時に最適"
+
+#. Found in description header.
+msgid "Free vs Pro Feature Comparison"
+msgstr "通常版と Pro 版の機能比較"
 
 #. Found in description header.
 msgid "Key Features"
@@ -260,4 +292,14 @@ msgstr "<h4>1.5.2</h4>"
 #, gp-priority: low
 msgid "Enhance: Add <code>kamf_after_settings_form_actions</code> action hook for custom extensions after settings form actions."
 msgstr "強化: 設定フォームアクション領域の直後にカスタム拡張を行うための <code>kamf_after_settings_form_actions</code> アクションフックを追加。"
+
+#. Found in changelog paragraph.
+#, gp-priority: low
+msgid "<h4>1.5.2.1</h4>"
+msgstr "<h4>1.5.2.1</h4>"
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Docs: Expand Pro version comparison and add official store links."
+msgstr "ドキュメント: Pro 版の機能比較を拡充し、公式ストアへのリンクを追加。"
 
