@@ -8,5 +8,6 @@ build/*.map
 .DS_Store
 *.log
 *.zip
+__pycache__/
 # Antigravity Rules
 /.agents/

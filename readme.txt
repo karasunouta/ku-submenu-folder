@@ -4,7 +4,7 @@ Donate link: https://karasunouta.com
 Tags: admin menu, admin menu folder, submenu folder, menu organizer, menu editor
 Requires at least: 6.4
 Tested up to: 7.1
-Stable tag: 1.5.2
+Stable tag: 1.5.2.1
 Requires PHP: 8.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -50,13 +50,28 @@ Click on the menu item inside the folder (e.g., Submenu Folder > Target Menu). T
 
 Why this design? WordPress admin menus natively support only up to 2 levels of hierarchy. Forcibly hacking or overriding core menu scripts to create deep nested dropdowns risks breaking layout compatibility and causing conflicts with other plugins or future WordPress updates. Our clean, core-compliant approach provides a safe, reliable, and practical 3-tier menu experience without stability risks.
 
+= Is there a Pro version available? =
+Yes! While the free version gives you a complete, standalone solution for cleaning up your sidebar into a single folder, **Karasunouta Admin Menu Folder Pro** adds multi-folder support, custom icons and titles, and drag-and-drop reordering.
+👉 [View Pro details and pricing](https://karasunouta.com/en/store/karasunouta-admin-menu-folder-pro/)
+
 == Optional Pro Version ==
 
-For larger websites or advanced administration workflows, Karasunouta Admin Menu Folder Pro is also available with additional capabilities:
+The free version of Karasunouta Admin Menu Folder is a complete, fully functional plugin designed to keep your WordPress admin sidebar clean and focused using a single organized folder.
 
-* **Multiple Folders**: Create and organize multiple dedicated folders (e.g., Tools, Marketing, Settings).
-* **Custom Folder Icons & Titles**: Assign distinct icons and custom names to each folder.
-* **Flexible Reordering**: Freely customize the display order of folders in the sidebar and rearrange menu items inside each folder.
+For agency client work, larger websites, or advanced administration workflows, **Karasunouta Admin Menu Folder Pro** offers extended capabilities to give you total control over the admin navigation.
+
+### Perfect for Client Work & Handoffs
+When delivering WordPress sites to clients, third-party plugin menus can easily clutter the dashboard. This overwhelming clutter often confuses clients and increases support inquiries. With the Pro version, you can organize menus into dedicated, purpose-specific folders (e.g., "Daily Operations", "Maintenance", "Security") with custom folder names and Dashicons. Deliver a clean, professional, and clutter-free admin dashboard that inspires confidence.
+
+👉 [View Pro details and pricing](https://karasunouta.com/en/store/karasunouta-admin-menu-folder-pro/)
+
+### Free vs Pro Feature Comparison
+
+* **Number of Folders**: [Free] 1 folder (automatically generated). / [Pro] Create and manage multiple folders.
+* **Folder Name**: [Free] Fixed to "Menu Folder". / [Pro] Fully customizable (e.g., "Maintenance", "Security").
+* **Folder Icon**: [Free] Fixed standard folder icon. / [Pro] Fully customizable (choose suitable Dashicons for each folder).
+* **Menu Item Order**: [Free] Fixed (follows original WordPress sidebar order). / [Pro] Freely draggable & reorderable.
+* **Folder Order**: [Free] Fixed (single folder). / [Pro] Freely reorderable among multiple folders.
 
 == Screenshots ==
 
@@ -67,6 +82,9 @@ For larger websites or advanced administration workflows, Karasunouta Admin Menu
 5. Preserved submenu functionality — opening a stored plugin (such as LightStart) displays its screen and seamlessly reveals all of its native child items (e.g., "LightStart > About us") in the sidebar.
 
 == Changelog ==
+
+= 1.5.2.1 =
+* Docs: Expand Pro version comparison and add official store links.
 
 = 1.5.2 =
 * Enhance: Add `kamf_after_settings_form_actions` action hook for custom extensions after settings form actions.
