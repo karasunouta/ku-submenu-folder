@@ -106,8 +106,8 @@ msgid "For agency client work, larger websites, or advanced administration workf
 msgstr "受託制作などのクライアントワーク、大規模な Web サイト、あるいは高度な管理ワークフロー向けに、**Karasunouta Admin Menu Folder Pro** は管理ナビゲーションを思い通りに制御できる拡張機能を提供します。"
 
 #. Found in description paragraph.
-msgid "When delivering WordPress sites to clients, third-party plugin menus can easily clutter the dashboard. This overwhelming clutter often confuses clients and increases support inquiries. With the Pro version, you can organize menus into dedicated, purpose-specific folders (e.g., \"Daily Operations\", \"Maintenance\", \"Security\") with custom folder names and Dashicons. Deliver a clean, professional, and clutter-free admin dashboard that inspires confidence."
-msgstr "Web サイトをクライアントに納品する際、導入プラグインが増えるにつれて管理画面は雑然としがちです。メニューがとっ散らかっていると、クライアントが操作に迷ったり、サポートへの問い合わせが増える要因になります。Pro 版を活用すれば、目的別 (例: 「日常業務」「保守・メンテ」「セキュリティ」など) に専用フォルダーを作成し、任意のフォルダー名やアイコンを設定して整理できます。とっ散らかっていない、洗練されたプロフェッショナルな管理画面を納品できます。"
+msgid "When delivering WordPress sites to clients, third-party plugin menus can easily clutter the dashboard. This overwhelming clutter often confuses clients and increases support inquiries. With the Pro version, you can organize menus into dedicated, purpose-specific folders (e.g., \"Maintenance\", \"Security\", \"Analytics & SEO\") with custom folder names and Dashicons. Deliver a clean, professional, and clutter-free admin dashboard that inspires confidence."
+msgstr "Web サイトをクライアントに納品する際、導入プラグインが増えるにつれて管理画面は雑然としがちです。メニューがとっ散らかっていると、クライアントが操作に迷ったり、サポートへの問い合わせが増える要因になります。Pro 版を活用すれば、目的別 (例: 「保守・メンテ」「セキュリティ」「分析・SEO」など) に専用フォルダーを作成し、任意のフォルダー名やアイコンを設定して整理できます。とっ散らかっていない、洗練されたプロフェッショナルな管理画面を納品できます。"
 
 #. Found in description paragraph.
 msgid "👉 [View Pro details and pricing](https://karasunouta.com/en/store/karasunouta-admin-menu-folder-pro/)"
